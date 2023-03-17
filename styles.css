@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+img{
+	width:32%;
+	border-radius:20px;
+	padding:2px
+}
+.contain{
+	background-color:#444;
+	padding:20px
+}
