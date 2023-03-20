@@ -2,8 +2,9 @@
 #photo-heading{
 	text-align:center;
 	color:white;
+	text-transform:uppercase;
 }
-#animal-photos{
+img{
 	width:32%;
 	border-radius:20px;
 	padding:2px
