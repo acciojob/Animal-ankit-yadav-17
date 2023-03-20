@@ -1,5 +1,9 @@
 /*  your css code here. If applicable */
-img{
+#photo-heading{
+	text-align:center;
+	color:white;
+}
+#animal-photos{
 	width:32%;
 	border-radius:20px;
 	padding:2px
